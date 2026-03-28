@@ -8,7 +8,7 @@
 
   GOKUL V is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/richard-ryan/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/igokulxlx/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -42,7 +42,7 @@ git clone https://github.com/codewithsadee/richard-ryan.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.instagram.com/igokulxlx).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/igokulxlx).
 
 ### License
 
