@@ -880,7 +880,19 @@ body.active { overflow: hidden; }
   gap: 10px;
 }
 
-.social-link { font-weight: var(--fw-500); }
+.social-link {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 25px;
+  background: #111;
+  color: #fff;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.social-link:hover {
+  background: #ff4d5a;
+}
 
 .social-link:is(:hover, :focus-visible) { text-decoration: underline; }
 
@@ -1719,3 +1731,15 @@ body.active { overflow: hidden; }
   .footer-top .container { max-width: 1200px; }
 
 }
+.float-btn {
+  position: fixed;
+  right: 20px;
+  padding: 12px;
+  border-radius: 50%;
+  color: #fff;
+  z-index: 999;
+}
+
+.whatsapp { bottom: 100px; background: #25D366; }
+.instagram { bottom: 60px; background: #E1306C; }
+.fiverr { bottom: 20px; background: #1DBF73; }
